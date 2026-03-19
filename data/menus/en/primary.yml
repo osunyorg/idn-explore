@@ -355,8 +355,8 @@ items:
   - "/resources/degrowth-networks/"
   path: "/pages/resources"
   file: content/en/pages/resources/_index.html
-- title: Transformative Learning for Degrowth
-  slug: transformative-learning-for-degrowth
+- title: Transformative Learning
+  slug: transformative-learning
   target: "/transformative-learning/"
   kind: page
   new_tab: false
