@@ -312,6 +312,42 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: 'Degrowth for Businesses '
+    slug: degrowth-for-businesses
+    target: "/resources/degrowth-for-businesses/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/resources/degrowth-for-businesses"
+    file: content/en/pages/resources/degrowth-for-businesses/_index.html
+  - title: Degrowth Networks
+    slug: degrowth-networks
+    target: "/resources/degrowth-networks/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/resources/degrowth-networks"
+    file: content/en/pages/resources/degrowth-networks/_index.html
+  - title: Degrowth in Practice
+    slug: degrowth-in-practice
+    target: "/resources/degrowth-in-practice/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/resources/degrowth-in-practice"
+    file: content/en/pages/resources/degrowth-in-practice/_index.html
+  - title: Degrowth Games
+    slug: degrowth-games
+    target: "/resources/degrowth-games/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/resources/degrowth-games"
+    file: content/en/pages/resources/degrowth-games/_index.html
   - title: Transformative Learning
     slug: transformative-learning
     target: "/resources/transformative-learning/"
@@ -375,42 +411,6 @@ items:
     - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
     path: "/pages/resources/transformative-learning"
     file: content/en/pages/resources/transformative-learning/_index.html
-  - title: 'Degrowth for Businesses '
-    slug: degrowth-for-businesses
-    target: "/resources/degrowth-for-businesses/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/resources/degrowth-for-businesses"
-    file: content/en/pages/resources/degrowth-for-businesses/_index.html
-  - title: Degrowth Networks
-    slug: degrowth-networks
-    target: "/resources/degrowth-networks/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/resources/degrowth-networks"
-    file: content/en/pages/resources/degrowth-networks/_index.html
-  - title: Degrowth in Practice
-    slug: degrowth-in-practice
-    target: "/resources/degrowth-in-practice/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/resources/degrowth-in-practice"
-    file: content/en/pages/resources/degrowth-in-practice/_index.html
-  - title: Degrowth Games
-    slug: degrowth-games
-    target: "/resources/degrowth-games/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/resources/degrowth-games"
-    file: content/en/pages/resources/degrowth-games/_index.html
   descendants_targets:
   - "/resources/degrowth-for-businesses/"
   - "/resources/degrowth-games/"
