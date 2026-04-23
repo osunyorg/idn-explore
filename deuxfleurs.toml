@@ -13,3 +13,180 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/degrowth/polls/"
+to = "/degrowth/degrowth-is-popular/"
+
+[[redirects]]
+from = "/to-ignore-for-now/organizations/"
+to = "/admin/organizations/"
+
+[[redirects]]
+from = "/transformative-learning/"
+to = "/resources/transformative-learning/"
+
+[[redirects]]
+from = "/how-to-fight-establishment-propaganda-and-win/"
+to = "/guides/how-to-fight-establishment-propaganda-and-win/"
+
+[[redirects]]
+from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1/"
+to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/"
+
+[[redirects]]
+from = "/how-to-get-your-dissident-ideas-heard/"
+to = "/guides/how-to-get-your-dissident-ideas-heard/"
+
+[[redirects]]
+from = "/agenda/archives/"
+to = "/admin/agenda/archives/"
+
+[[redirects]]
+from = "/to-ignore-for-now/sitemap/"
+to = "/admin/sitemap/"
+
+[[redirects]]
+from = "/organizations/"
+to = "/admin/organizations/"
+
+[[redirects]]
+from = "/team/editors/"
+to = "/admin/team/editors/"
+
+[[redirects]]
+from = "/transformative-learning/activity-1/"
+to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
+
+[[redirects]]
+from = "/to-ignore-for-now/agenda/archives/"
+to = "/admin/agenda/archives/"
+
+[[redirects]]
+from = "/sitemap/"
+to = "/admin/sitemap/"
+
+[[redirects]]
+from = "/to-ignore-for-now/team/editors/"
+to = "/admin/team/editors/"
+
+[[redirects]]
+from = "/about/how-to-help/"
+to = "/about/how-you-can-help/"
+
+[[redirects]]
+from = "/media/magazine/"
+to = "/media/magazines/"
+
+[[redirects]]
+from = "/to-ignore-for-now/posts/"
+to = "/admin/posts/"
+
+[[redirects]]
+from = "/to-ignore-for-now/legal-terms/"
+to = "/admin/legal-terms/"
+
+[[redirects]]
+from = "/a-degrowth-economy-explained/"
+to = "/degrowth/a-degrowth-economy-explained/"
+
+[[redirects]]
+from = "/about/transparency/"
+to = "/about/ai-transparency/"
+
+[[redirects]]
+from = "/resources/degrowth-101/"
+to = "/resources/degrowth-for-businesses/"
+
+[[redirects]]
+from = "/to-ignore-for-now/agenda/"
+to = "/admin/agenda/"
+
+[[redirects]]
+from = "/degrowth/how-do-we-pay-for-it/"
+to = "/degrowth/how-do-we-pay-for-degrowth/"
+
+[[redirects]]
+from = "/privacy-policy/"
+to = "/admin/privacy-policy/"
+
+[[redirects]]
+from = "/to-ignore-for-now/accessibility/"
+to = "/admin/accessibility/"
+
+[[redirects]]
+from = "/activity-1/"
+to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
+
+[[redirects]]
+from = "/transformative-learning/glossary-of-transformative-learning-for-degrowth/"
+to = "/resources/transformative-learning/glossary-of-transformative-learning-for-degrowth/"
+
+[[redirects]]
+from = "/accessibility/"
+to = "/admin/accessibility/"
+
+[[redirects]]
+from = "/degrowth/misconceptions-about-degrowth/"
+to = "/degrowth/myth-and-misconceptions/"
+
+[[redirects]]
+from = "/our-tl-for-degrowth-principles/"
+to = "/resources/transformative-learning/our-tl-for-degrowth-principles/"
+
+[[redirects]]
+from = "/how-to-help/"
+to = "/about/how-you-can-help/"
+
+[[redirects]]
+from = "/degrowth-games/"
+to = "/resources/degrowth-games/"
+
+[[redirects]]
+from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/"
+to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/"
+
+[[redirects]]
+from = "/team/"
+to = "/admin/team/"
+
+[[redirects]]
+from = "/who/"
+to = "/about/who/"
+
+[[redirects]]
+from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
+to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
+
+[[redirects]]
+from = "/values-principles/"
+to = "/degrowth/values-principles/"
+
+[[redirects]]
+from = "/to-ignore-for-now/team/"
+to = "/admin/team/"
+
+[[redirects]]
+from = "/media/videos-1/"
+to = "/media/videos/"
+
+[[redirects]]
+from = "/polls/"
+to = "/degrowth/degrowth-is-popular/"
+
+[[redirects]]
+from = "/legal-terms/"
+to = "/admin/legal-terms/"
+
+[[redirects]]
+from = "/posts/"
+to = "/admin/posts/"
+
+[[redirects]]
+from = "/transformative-learning/our-tl-for-degrowth-principles/"
+to = "/resources/transformative-learning/our-tl-for-degrowth-principles/"
+
+[[redirects]]
+from = "/to-ignore-for-now/privacy-policy/"
+to = "/admin/privacy-policy/"
+
