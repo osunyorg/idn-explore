@@ -15,178 +15,178 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/degrowth/polls/"
+from = "/degrowth/polls/index.html"
 to = "/degrowth/degrowth-is-popular/"
 
 [[redirects]]
-from = "/to-ignore-for-now/organizations/"
+from = "/to-ignore-for-now/organizations/index.html"
 to = "/admin/organizations/"
 
 [[redirects]]
-from = "/transformative-learning/"
+from = "/transformative-learning/index.html"
 to = "/resources/transformative-learning/"
 
 [[redirects]]
-from = "/how-to-fight-establishment-propaganda-and-win/"
+from = "/how-to-fight-establishment-propaganda-and-win/index.html"
 to = "/guides/how-to-fight-establishment-propaganda-and-win/"
 
 [[redirects]]
-from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1/"
+from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1/index.html"
 to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/"
 
 [[redirects]]
-from = "/how-to-get-your-dissident-ideas-heard/"
+from = "/how-to-get-your-dissident-ideas-heard/index.html"
 to = "/guides/how-to-get-your-dissident-ideas-heard/"
 
 [[redirects]]
-from = "/agenda/archives/"
+from = "/agenda/archives/index.html"
 to = "/admin/agenda/archives/"
 
 [[redirects]]
-from = "/to-ignore-for-now/sitemap/"
+from = "/to-ignore-for-now/sitemap/index.html"
 to = "/admin/sitemap/"
 
 [[redirects]]
-from = "/organizations/"
+from = "/organizations/index.html"
 to = "/admin/organizations/"
 
 [[redirects]]
-from = "/team/editors/"
+from = "/team/editors/index.html"
 to = "/admin/team/editors/"
 
 [[redirects]]
-from = "/transformative-learning/activity-1/"
+from = "/transformative-learning/activity-1/index.html"
 to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
 
 [[redirects]]
-from = "/to-ignore-for-now/agenda/archives/"
+from = "/to-ignore-for-now/agenda/archives/index.html"
 to = "/admin/agenda/archives/"
 
 [[redirects]]
-from = "/sitemap/"
+from = "/sitemap/index.html"
 to = "/admin/sitemap/"
 
 [[redirects]]
-from = "/to-ignore-for-now/team/editors/"
+from = "/to-ignore-for-now/team/editors/index.html"
 to = "/admin/team/editors/"
 
 [[redirects]]
-from = "/about/how-to-help/"
+from = "/about/how-to-help/index.html"
 to = "/about/how-you-can-help/"
 
 [[redirects]]
-from = "/media/magazine/"
+from = "/media/magazine/index.html"
 to = "/media/magazines/"
 
 [[redirects]]
-from = "/to-ignore-for-now/posts/"
+from = "/to-ignore-for-now/posts/index.html"
 to = "/admin/posts/"
 
 [[redirects]]
-from = "/to-ignore-for-now/legal-terms/"
+from = "/to-ignore-for-now/legal-terms/index.html"
 to = "/admin/legal-terms/"
 
 [[redirects]]
-from = "/a-degrowth-economy-explained/"
+from = "/a-degrowth-economy-explained/index.html"
 to = "/degrowth/a-degrowth-economy-explained/"
 
 [[redirects]]
-from = "/about/transparency/"
+from = "/about/transparency/index.html"
 to = "/about/ai-transparency/"
 
 [[redirects]]
-from = "/resources/degrowth-101/"
+from = "/resources/degrowth-101/index.html"
 to = "/resources/degrowth-for-businesses/"
 
 [[redirects]]
-from = "/to-ignore-for-now/agenda/"
+from = "/to-ignore-for-now/agenda/index.html"
 to = "/admin/agenda/"
 
 [[redirects]]
-from = "/degrowth/how-do-we-pay-for-it/"
+from = "/degrowth/how-do-we-pay-for-it/index.html"
 to = "/degrowth/how-do-we-pay-for-degrowth/"
 
 [[redirects]]
-from = "/privacy-policy/"
+from = "/privacy-policy/index.html"
 to = "/admin/privacy-policy/"
 
 [[redirects]]
-from = "/to-ignore-for-now/accessibility/"
+from = "/to-ignore-for-now/accessibility/index.html"
 to = "/admin/accessibility/"
 
 [[redirects]]
-from = "/activity-1/"
+from = "/activity-1/index.html"
 to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
 
 [[redirects]]
-from = "/transformative-learning/glossary-of-transformative-learning-for-degrowth/"
+from = "/transformative-learning/glossary-of-transformative-learning-for-degrowth/index.html"
 to = "/resources/transformative-learning/glossary-of-transformative-learning-for-degrowth/"
 
 [[redirects]]
-from = "/accessibility/"
+from = "/accessibility/index.html"
 to = "/admin/accessibility/"
 
 [[redirects]]
-from = "/degrowth/misconceptions-about-degrowth/"
+from = "/degrowth/misconceptions-about-degrowth/index.html"
 to = "/degrowth/myth-and-misconceptions/"
 
 [[redirects]]
-from = "/our-tl-for-degrowth-principles/"
+from = "/our-tl-for-degrowth-principles/index.html"
 to = "/resources/transformative-learning/our-tl-for-degrowth-principles/"
 
 [[redirects]]
-from = "/how-to-help/"
+from = "/how-to-help/index.html"
 to = "/about/how-you-can-help/"
 
 [[redirects]]
-from = "/degrowth-games/"
+from = "/degrowth-games/index.html"
 to = "/resources/degrowth-games/"
 
 [[redirects]]
-from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/"
+from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/index.html"
 to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/"
 
 [[redirects]]
-from = "/team/"
+from = "/team/index.html"
 to = "/admin/team/"
 
 [[redirects]]
-from = "/who/"
+from = "/who/index.html"
 to = "/about/who/"
 
 [[redirects]]
-from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
+from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/index.html"
 to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1/activity-1/"
 
 [[redirects]]
-from = "/values-principles/"
+from = "/values-principles/index.html"
 to = "/degrowth/values-principles/"
 
 [[redirects]]
-from = "/to-ignore-for-now/team/"
+from = "/to-ignore-for-now/team/index.html"
 to = "/admin/team/"
 
 [[redirects]]
-from = "/media/videos-1/"
+from = "/media/videos-1/index.html"
 to = "/media/videos/"
 
 [[redirects]]
-from = "/polls/"
+from = "/polls/index.html"
 to = "/degrowth/degrowth-is-popular/"
 
 [[redirects]]
-from = "/legal-terms/"
+from = "/legal-terms/index.html"
 to = "/admin/legal-terms/"
 
 [[redirects]]
-from = "/posts/"
+from = "/posts/index.html"
 to = "/admin/posts/"
 
 [[redirects]]
-from = "/transformative-learning/our-tl-for-degrowth-principles/"
+from = "/transformative-learning/our-tl-for-degrowth-principles/index.html"
 to = "/resources/transformative-learning/our-tl-for-degrowth-principles/"
 
 [[redirects]]
-from = "/to-ignore-for-now/privacy-policy/"
+from = "/to-ignore-for-now/privacy-policy/index.html"
 to = "/admin/privacy-policy/"
 
