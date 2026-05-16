@@ -143,10 +143,6 @@ from = "/degrowth-games/index.html"
 to = "/resources/degrowth-games/"
 
 [[redirects]]
-from = "/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/index.html"
-to = "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/"
-
-[[redirects]]
 from = "/team/index.html"
 to = "/admin/team/"
 
