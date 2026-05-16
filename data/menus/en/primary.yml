@@ -464,6 +464,25 @@ items:
         - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/activity-5/"
         path: "/pages/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5"
         file: content/en/pages/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/_index.html
+      - title: Principle#6 of TL for Degrowth
+        slug: principle-6-of-tl-for-degrowth
+        target: "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/"
+        kind: page
+        new_tab: false
+        children:
+        - title: Activities for Principle#6 of TL for Degrowth
+          slug: activities-for-principle-6-of-tl-for-degrowth
+          target: "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/activity-6/"
+          kind: page
+          new_tab: false
+          children: []
+          descendants_targets: []
+          path: "/pages/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/activity-6"
+          file: content/en/pages/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/activity-6/_index.html
+        descendants_targets:
+        - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/activity-6/"
+        path: "/pages/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6"
+        file: content/en/pages/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/_index.html
       - title: Principle#4 of TL for Degrowth (to come soon)
         slug: principle-4-of-tl-for-degrowth-to-come-soon
         target: "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-1-1/"
@@ -485,6 +504,8 @@ items:
       - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-4/activity-4/"
       - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/"
       - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/activity-5/"
+      - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/"
+      - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/activity-6/"
       path: "/pages/resources/transformative-learning/our-tl-for-degrowth-principles"
       file: content/en/pages/resources/transformative-learning/our-tl-for-degrowth-principles/_index.html
     descendants_targets:
@@ -501,6 +522,8 @@ items:
     - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-4/activity-4/"
     - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/"
     - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/activity-5/"
+    - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/"
+    - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/activity-6/"
     path: "/pages/resources/transformative-learning"
     file: content/en/pages/resources/transformative-learning/_index.html
   descendants_targets:
@@ -522,6 +545,8 @@ items:
   - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-4/activity-4/"
   - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/"
   - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-5/activity-5/"
+  - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/"
+  - "/resources/transformative-learning/our-tl-for-degrowth-principles/principle-6/activity-6/"
   path: "/pages/resources"
   file: content/en/pages/resources/_index.html
 
