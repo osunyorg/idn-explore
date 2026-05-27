@@ -4,8 +4,8 @@ en:
   title: >-
     Explore degrowth
   contentDir: content/en
-  languageCode: en
-  languageName: English
+  locale: en
+  label: English
   buildFuture: true
   params:
     contact_details:
