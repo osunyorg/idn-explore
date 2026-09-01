@@ -147,6 +147,10 @@ from = "/team/index.html"
 to = "/admin/team/"
 
 [[redirects]]
+from = "/files/2026/index.html"
+to = "/files/2026/degrowth-web-092021pdf/"
+
+[[redirects]]
 from = "/who/index.html"
 to = "/about/who/"
 
